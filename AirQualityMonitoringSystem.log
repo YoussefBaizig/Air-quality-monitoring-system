@@ -1,0 +1,12 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877 -DL -O11111114 -fo8 -N"C:\Users\youss\OneDrive\Bureau\MyPROJECTS\Air-quality-monitoring-system\AirQualityMonitoringSystem.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\youss\OneDrive\Bureau\MyPROJECTS\Air-quality-monitoring-system\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -IP"C:\Users\youss\OneDrive\Bureau\MyPROJECTS\Air-quality-monitoring-system\" "AirQualityMonitoringSystem.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_ADC_A_C.mcl" "__Lib_EEPROM.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	AirQualityMonitoringSystem.c
+diagnostics: 199	123	Compiled Successfully	AirQualityMonitoringSystem.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+warning: 25	1511	IRP bit must be set manually for indirect access to 'hum_str' variable	AirQualityMonitoringSystem.c
+hint: 0	1144	Used RAM (bytes): 191 (54%)  Free RAM (bytes): 161 (46%)	Used RAM (bytes): 191 (54%)  Free RAM (bytes): 161 (46%)
+hint: 0	1144	Used ROM (program words): 2537 (31%)  Free ROM (program words): 5655 (69%)	Used ROM (program words): 2537 (31%)  Free ROM (program words): 5655 (69%)
+diagnostics: 0	125	Project Linked Successfully	AirQualityMonitoringSystem.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'AirQualityMonitoringSystem.mcppi' completed: 110 ms	 
+diagnostics: 0	103	Finished successfully: 20 May 2025, 16:10:19	AirQualityMonitoringSystem.mcppi
