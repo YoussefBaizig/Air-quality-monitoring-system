@@ -32,10 +32,12 @@ Simulate an embedded system that:
 
 ## 📂 Project Structure
 
+```plaintext
 Air-quality-monitoring-system/
-├── Simulation/ # Proteus .pdsprj file (main simulation circuit)
-├── Code/ # Source code for PIC16F877 (MPLAB or MikroC)
-└── README.md
+├── Simulation/           # Proteus .pdsprj file (main simulation circuit)
+├── Code/                 # Source code for PIC16F877 (MPLAB or MikroC)
+└── README.md             # Project documentation
+```
 
 ---
 
